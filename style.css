@@ -1,0 +1,36 @@
+@charset "utf-8";
+.box1 {
+    height: 100%;
+    background-color: #FFA2A3;
+    margin: 8px;
+    flex: 1;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.box2 {
+    height: 100%;
+    background-color: #FFF679;
+    margin: 8px;
+    flex: 2;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.box3 {
+    height: 100%;
+    background-color: #91AEFD;
+    margin: 8px;
+    flex: 1;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    height: 300px;
+}
